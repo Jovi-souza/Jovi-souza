@@ -25,10 +25,8 @@
 </div>
 
 
-## 👨‍💻 Projetos
+## 👨‍💻 Projeto em andamento
 
-### 01 Loja de roupas
+### Loja de roupas
 ![Hey Guys](https://user-images.githubusercontent.com/102324315/183136700-fba83db9-4ac4-4dc8-a087-86e4809d65e5.jpg)
 
-### 02 Formulário de login
-![Hey Guys](https://user-images.githubusercontent.com/102324315/182863517-b67aacf1-acf8-4931-a50c-28b56f9254b8.png)
