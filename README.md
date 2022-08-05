@@ -9,7 +9,7 @@
    
   ## - 💡 Tecnologias
  
-<div style="display: inline_block; margin: auto;"><br>
+<div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />
@@ -23,3 +23,12 @@
 <div> 
   <a href="https://www.instagram.com/um_vitor_qualquer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+## 👨‍💻 Projetos
+
+### 01 Loja de roupas
+![Hey Guys](https://user-images.githubusercontent.com/102324315/183136700-fba83db9-4ac4-4dc8-a087-86e4809d65e5.jpg)
+
+### 02 Formulário de login
+![Hey Guys](https://user-images.githubusercontent.com/102324315/182863517-b67aacf1-acf8-4931-a50c-28b56f9254b8.png)
