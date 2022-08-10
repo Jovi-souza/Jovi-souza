@@ -1,4 +1,4 @@
-# Olá!, eu sou o João vitor 👋
+# Hey Guys!, Eu me chamo João vitor 👋
 
 - 🌱 Estou aprendendo: || ReactJS || JavaScript || TypeScript ||
 
