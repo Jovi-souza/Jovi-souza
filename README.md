@@ -9,6 +9,7 @@
  <div align="center">
   <img align="center" alt="GIF" width="70%" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
 </div>
+
  ##
  
  - 💻 My Skills
