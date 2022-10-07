@@ -1,14 +1,14 @@
 # Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
- <div align="center" >
-  <img align="center" alt="GIF" width="60%" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
-</div>
-
-##
-
 - 🔭 I’m currently a self-taught student and I am finishing the Rocketseat React course.
 - 📚 I’m currently learning Frontend web development using Javascript, Typescript and React.
 - 👯 I'm looking for a job as a React JR developer..
+
+##
+
+ <div align="center">
+  <img align="center" alt="GIF" width="70%" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
+</div>
  ##
  
  - 💻 My Skills
