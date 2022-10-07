@@ -1,7 +1,7 @@
 # Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
  <div align="center" >
-  <img align="center" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
+  <img align="center" alt="GIF" width="60%" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
 </div>
 
 ##
@@ -10,15 +10,8 @@
 - 📚 I’m currently learning Frontend web development using Javascript, Typescript and React.
 - 👯 I'm looking for a job as a React JR developer..
  ##
- <div align="center" >
-  <a href="https://github.com/Jovi-souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 
-
-- 💻 My Skills
+ 
+ - 💻 My Skills
 
 <div align="center" ><br>
   
@@ -29,4 +22,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+##
+
+ <div align="center" >
+  <a href="https://github.com/Jovi-souza">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical"/>
 </div>
