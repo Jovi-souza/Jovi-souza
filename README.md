@@ -26,8 +26,16 @@
 
 ##
 
+- 🔥 Stats
  <div align="center" >
   <a href="https://github.com/Jovi-souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
+  <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
+</div>
+  
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
 </div>
