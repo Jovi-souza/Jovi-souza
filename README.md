@@ -1,27 +1,32 @@
-# Hey Guys!, Eu me chamo João vitor 👋
+# Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 🌱 Estou aprendendo: || ReactJS || JavaScript || TypeScript ||
+ <div align="center" >
+  <img align="center" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
+</div>
 
+##
+
+- 🔭 I’m currently a self-taught student and I am finishing the Rocketseat React course.
+- 📚 I’m currently learning Frontend web development using Javascript, Typescript and React.
+- 👯 I'm looking for a job as a React JR developer..
+ ##
+ <div align="center" >
   <a href="https://github.com/Jovi-souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-   
-  ## - 💡 Tecnologias
- 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+## 
+
+- 💻 My Skills
+
+<div align="center" ><br>
   
-  ## 😁 Instagram
-  
-<div> 
-  <a href="https://www.instagram.com/um_vitor_qualquer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-499578206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
