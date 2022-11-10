@@ -1,8 +1,8 @@
 # Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 - 🔭 I’m currently a self-taught student and I am finishing the Rocketseat React course.
-- 📚 I’m currently learning Frontend web development using Javascript, Typescript and React.
-- 👯 I'm looking for a job as a React JR developer..
+- 📚 I’m currently learning Frontend web development using Javascript, Typescript, React and Next.js.
+- 👯 I'm looking for a job as a React JR developer.
 
 ##
 
