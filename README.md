@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a self-taught student and I am finishing the Rocketseat React course.
 - 📚 I’m currently learning Frontend web development using Javascript, Typescript, React and Next.js.
-- 👯 I'm looking for a job as a React JR developer.
+- 👨‍💻 I'm currently a Front end developer at MEU-IOT
 
 ##
 
