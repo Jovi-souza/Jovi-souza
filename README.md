@@ -34,9 +34,3 @@
   <img height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
   <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
 </div>
-  
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
