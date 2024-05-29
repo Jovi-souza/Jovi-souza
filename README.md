@@ -5,8 +5,8 @@
 - 👨‍💻 I'm currently a Front end developer at Scipopulis.
  
  <div align="" >
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
+  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
 </div>
  
 ## My Skills
