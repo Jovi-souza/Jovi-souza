@@ -1,36 +1,32 @@
 # Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 🔭 I’m currently a self-taught student and I am finishing the Rocketseat React course.
-- 📚 I’m currently learning Frontend web development using Javascript, Typescript, React and Next.js.
-- 👨‍💻 I'm currently a Front end developer at MEU-IOT
-
-##
-
- <div align="center">
-  <img align="center" alt="GIF" width="70%" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" /> 
-</div>
-
- ##
+- 🔭 I'm currently improving my knowledge in Javascript, Typescript, React and Nextjs.
+- 📚 I'm currently studying Nodejs, NestJs for backend development and learning more about UI/UX design.
+- 👨‍💻 I'm currently a Front end developer at Scipopulis.
  
- - 💻 My Skills
+ <div align="" >
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
+</div>
+ 
+## My Skills
 
-<div ><br>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
+<div>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript 🤩"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript 😎"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+  <img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/>      
 </div>
 
-##
-
-- 🔥 Stats
- <div align="center" >
-  <a href="https://github.com/Jovi-souza">
-  <img height="35%" src="https://github-readme-stats.vercel.app/api?username=Jovi-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovi-souza&theme=radical" alt="Jovi-souza" />
-  <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
-</div>
+## Magic Tech
+<div>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
+<div>
