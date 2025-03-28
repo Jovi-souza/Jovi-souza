@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently improving my knowledge in Javascript, Typescript, React, Nextjs and Vue.
 - 📚 I'm currently studying Nodejs, NestJs for backend development and learning more about UI/UX design.
-- 👨‍💻 I'm currently a Front end developer at Scipopulis.
  
  <div align="" >
   <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
