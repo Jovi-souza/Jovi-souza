@@ -1,7 +1,7 @@
 # Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 - 🔭 I'm currently improving my knowledge in Javascript, Typescript, React, Nextjs and Vue.
-- 📚 I'm currently studying Nodejs, NestJs for backend development and learning more about UI/UX design.
+- 📚 I'm currently studying Java for backend development and learning more about UI/UX design.
  
  <div align="" >
   <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
