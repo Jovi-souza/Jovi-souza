@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <p><i>"The only way to do great work is to love what you do."</i></p>
+  <p><i>"For those without talent, obsession."</i></p>
 </div>
