@@ -1,31 +1,49 @@
-# Hey Guys eu me chamo João Vitor <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-
-- 🔭 I'm currently improving my knowledge in Javascript, Typescript, React, Nextjs and Vue.
-- 📚 I'm currently studying Java for backend development and learning more about UI/UX design.
- 
- <div align="" >
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovi-souza&layout=compact&langs_count=7&theme=radical" />
-</div>
- 
-## My Skills
-
-<div>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript 🤩"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript 😎"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
-  <img width="48" height="48" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS"/>      
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=092c4c&height=200&section=header&text=João%20Vitor&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-## Magic Tech
-<div>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" title="Yarn"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
-<div>
+<div align="center">
+  <a href="https://github.com/Jovi-souza">
+    <img src="https://img.shields.io/badge/Front--end%20Developer-092c4c?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-285889?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+### 🚀 About Me
+
+- 👨‍💻 **Front-end Developer** focusing on creating high-performance interfaces.
+- 🎓 Improving knowledge in **React, Vue and Next.js**.
+- 📚 Currently studying **Java for Backend Development**.
+- 🎨 Passionate about **UI/UX Design** and pixel-perfect layouts.
+- 🤝 Open to collaboration on interesting Open Source projects.
+
+<div align="left">
+  <a href="mailto:joao.rodrigues.souza.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devfront-jovi-souza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/83991078988"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <strong>Linguagens & Frameworks</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,html,css,tailwind" />
+    </td>
+    <td align="center" width="600">
+      <strong>Magic Tech & Design</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=java,spring,figma,vscode,git,github,yarn,npm" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <p><i>"The only way to do great work is to love what you do."</i></p>
+</div>
